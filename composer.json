@@ -1,0 +1,21 @@
+{
+    "name": "mohammad/yii2-test",
+    "description": "how to test this git hub",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mohamamd",
+            "email": "mamad.za69@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "mohammad\\testyii\\": ""
+        }
+    }
+}
